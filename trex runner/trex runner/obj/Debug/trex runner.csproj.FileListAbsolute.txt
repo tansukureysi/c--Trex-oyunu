@@ -1,0 +1,11 @@
+C:\Users\niyaz\source\repos\trex runner\trex runner\bin\Debug\trex runner.exe.config
+C:\Users\niyaz\source\repos\trex runner\trex runner\bin\Debug\trex runner.exe
+C:\Users\niyaz\source\repos\trex runner\trex runner\bin\Debug\trex runner.pdb
+C:\Users\niyaz\source\repos\trex runner\trex runner\obj\Debug\trex runner.csproj.AssemblyReference.cache
+C:\Users\niyaz\source\repos\trex runner\trex runner\obj\Debug\trex runner.csproj.SuggestedBindingRedirects.cache
+C:\Users\niyaz\source\repos\trex runner\trex runner\obj\Debug\trex_runner.Form1.resources
+C:\Users\niyaz\source\repos\trex runner\trex runner\obj\Debug\trex_runner.Properties.Resources.resources
+C:\Users\niyaz\source\repos\trex runner\trex runner\obj\Debug\trex runner.csproj.GenerateResource.cache
+C:\Users\niyaz\source\repos\trex runner\trex runner\obj\Debug\trex runner.csproj.CoreCompileInputs.cache
+C:\Users\niyaz\source\repos\trex runner\trex runner\obj\Debug\trex runner.exe
+C:\Users\niyaz\source\repos\trex runner\trex runner\obj\Debug\trex runner.pdb
